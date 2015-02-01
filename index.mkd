@@ -3,7 +3,7 @@
 ###Tutorial: como instalar [Node.JS] en Ubuntu (Linux)
 [Node.JS]: http://nodejs.org/
 
-Inicialmente accedemos a la terminal de Linux y escribimos:
+Inicialmente accedemos a la terminal de Linux, para instalarlo via package manager, y escribimos:
 
 >*curl -sL https://deb.nodesource.com/setup | sudo bash -*
 
@@ -13,4 +13,4 @@ Seguido de:
 
 ###Ejemplo de uso de [Node.JS]:
 
-![Node.js](img/nodejs.png "Título de la imagen")
+![Node.js](images/nodejs.png "Título de la imagen")

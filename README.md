@@ -1,7 +1,7 @@
 PracticaPL01
 ==============
 
-Práctica #0. Markdown y Node.JS
+Práctica #01. Markdown y Node.JS
 --------------
 
   - Sergio González Rodríguez
